@@ -1,0 +1,146 @@
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\posLogIn.exe.config
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\posLogIn.exe
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\posLogIn.pdb
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.csprojResolveAssemblyReference.cache
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.pos_Login.resources
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.Properties.Resources.resources
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.csproj.GenerateResource.Cache
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.exe
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.pdb
+c:\users\dranyel waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.pos_main.resources
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\MySql.Data.dll
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\Google.Protobuf.dll
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\Renci.SshNet.dll
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\MySql.Data.xml
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.Dashboard.resources
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\Guna.UI.dll
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.admin.resources
+C:\Users\Dranyel Waffu\Documents\Visual Studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.Loading.resources
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.Users.resources
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.adduser.resources
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.addbrand.resources
+C:\Users\Dranyel Waffu\documents\visual studio 2015\Projects\posLogIn\posLogIn\obj\Debug\posLogIn.brand.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\posLogIn.exe.config
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.exe
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.pdb
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\posLogIn.exe
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\posLogIn.pdb
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\MySql.Data.dll
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\Google.Protobuf.dll
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\Renci.SshNet.dll
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\bin\Debug\MySql.Data.xml
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.csprojResolveAssemblyReference.cache
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.addbrand.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.adduser.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.admin.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.brand.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Dashboard.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.pos_Login.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Properties.Resources.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Users.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.csproj.GenerateResource.Cache
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Order.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Brands.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.category.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Record.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.change.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\inv.changepwd.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.addacc.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Record4.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Record3.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Record2.resources
+C:\Users\JC Nitro\Desktop\posLogIn\posLogIn\obj\Debug\posLogIn.Record1.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\posLogIn.exe.config
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.exe
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.pdb
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\posLogIn.exe
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\posLogIn.pdb
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\MySql.Data.dll
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\Google.Protobuf.dll
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\Renci.SshNet.dll
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\bin\Debug\MySql.Data.xml
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.csprojResolveAssemblyReference.cache
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.addacc.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.addbrand.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.adduser.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.admin.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.brand.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.category.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.change.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\inv.changepwd.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.Dashboard.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.pos_Login.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.Record.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.Properties.Resources.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.Order.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.Brands.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.Users.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.csproj.GenerateResource.Cache
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.db1.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\posLogIn.exe.config
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.exe
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.pdb
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\posLogIn.exe
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\posLogIn.pdb
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\MySql.Data.dll
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\Google.Protobuf.dll
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\Renci.SshNet.dll
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\bin\Debug\MySql.Data.xml
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.addacc.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.addbrand.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.adduser.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.admin.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.brand.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.category.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.change.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\inv.changepwd.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.DashboardUser.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.Dashboard.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.db1.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.pos_Login.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.RecordUser.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.Record.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.Order.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.Brands.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.Users.resources
+D:\Documents\Visual Studio 2015\Projects\inv-final\posLogIn\obj\Debug\posLogIn.csproj.GenerateResource.Cache
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.DashboardUser.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.printForm.resources
+C:\Users\JC Nitro\Desktop\inv-final\posLogIn\obj\Debug\posLogIn.RecordUser.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\bin\Debug\posLogIn.exe.config
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.exe
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.pdb
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\bin\Debug\posLogIn.exe
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\bin\Debug\posLogIn.pdb
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\bin\Debug\Google.Protobuf.dll
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\bin\Debug\BouncyCastle.Crypto.dll
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\bin\Debug\Renci.SshNet.dll
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\bin\Debug\MySql.Data.xml
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.csprojResolveAssemblyReference.cache
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.addacc.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.addbrand.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.adduser.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.admin.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.brand.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.category.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.change.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\inv.changepwd.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.DashboardUser.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.Dashboard.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.db1.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.pos_Login.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.printForm.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.RecordUser.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.Record.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.Properties.Resources.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.Order.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.Brands.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.Users.resources
+E:\Programming Tuts\Projects Tutorials\C# Projects\inv-final\posLogIn\obj\Debug\posLogIn.csproj.GenerateResource.Cache
